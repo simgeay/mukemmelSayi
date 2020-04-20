@@ -1,2 +1,9 @@
 # Project exclude paths
 /out/
+/.idea/.gitignore
+/.idea/description.html
+/.idea/encodings.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/mukemmelSayi.iml
+/.idea/project-template.xml
